@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Subodh Kathayat aka Mr. SK.</p>
+<p align="left">My name is Subodh Kathayat. I am an undergrad computer science student at New Jersey Institute of Technology.</p>
 
 ###
 
