@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ An athlete with a passion for technology and innovation.<br>
+✨ A badminton athlete with a passion for technology and innovation.<br>
 📚 I'm currently learning Golang to expand my backend development skills.<br>
 🎯 Goals: Build scalable and high-performance applications while exploring new technologies in AI and software development.<br>
 🎲 Fun fact: I once built an AI that sings 'Baby Shark' for a hackathon project!<br>
