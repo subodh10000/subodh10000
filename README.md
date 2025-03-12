@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Software Engineer with a Touch of Product Management experience.</h1>
 
 ###
 
@@ -6,12 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">More About ME</h3>
 
 ###
 
 <p align="left">
-"**Aspiring Software Engineer with a Touch of Product Management experience.**" <br>
 ✨ An athlete with a passion for technology and innovation.<br>
 📚 I'm currently learning Golang to expand my backend development skills.<br>
 🎯 Goals: Build scalable and high-performance applications while exploring new technologies in AI and software development.<br>
