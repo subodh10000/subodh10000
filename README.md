@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-"Aspiring Software Engineer with a Touch of Product Management experience." <br>
+"**Aspiring Software Engineer with a Touch of Product Management experience.**" <br>
 ✨ An athlete with a passion for technology and innovation.<br>
 📚 I'm currently learning Golang to expand my backend development skills.<br>
 🎯 Goals: Build scalable and high-performance applications while exploring new technologies in AI and software development.<br>
