@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Plays badminton <br>
-📚 Goes to Hackathon a lot <br>
+📚 Goes to Hackathon a lot ( I need friends for real ) <br>
 🎯 Looking for a gym bud on campus<br>
 🎲 Love making dad jokes: If you eating beef while having beef with someone. That makes you beef beef. <br>
 </p>
