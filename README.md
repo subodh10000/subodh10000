@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ A badminton athlete with a passion for technology and innovation.<br>
-📚 I'm currently learning Golang to expand my backend development skills.<br>
-🎯 Goals: Build scalable and high-performance applications while exploring new technologies in AI and software development.<br>
-🎲 Fun fact: I once built an AI that sings 'Baby Shark' for a hackathon project!<br>
+✨ Plays badminton <br>
+📚 Goes to Hackathon a lot <br>
+🎯 Looking for a gym bud on campus<br>
+🎲 Love making dad jokes: If you eating beef while having beef with someone. That makes you beef beef. <br>
 </p>
 
 ###
