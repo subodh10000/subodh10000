@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Plays badminton <br>
-📚 Goes to Hackathon a lot ( I need friends for real ) <br>
-🎯 Looking for a gym bud on campus<br>
-🎲 Love making dad jokes: If you’re eating beef while having beef with someone…..that’s double beef. <br>
+🏸 Plays badminton <br>
+💻 Goes to Hackathons a lot (I need friends for real) <br>
+🏋️ Looking for a gym bud on campus <br>
+😂 Love making dad jokes: _If you’re eating beef while having beef with someone…..that’s double beef._<br>
 </p>
 
 ###
