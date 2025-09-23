@@ -1,4 +1,4 @@
-<h1 align="left">Professional Software Engineer To Be :) </h1>
+<h1 align="left">Software Engineer</h1>
 
 ###
 
