@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is SK. I am an undergrad computer science student at New Jersey Institute of Technology. I mostly love building iOS apps that makes life easier. </p>
+<p align="left">Hi, I am SK. I am an undergrad computer science student at New Jersey Institute of Technology. I mostly love building iOS apps that makes life easier. </p>
 
 ###
 
