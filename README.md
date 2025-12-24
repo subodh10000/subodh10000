@@ -14,7 +14,6 @@
 🏸 Plays badminton <br>
 💻 Goes to Hackathons a lot (I need friends for real) <br>
 🏋️ Looking for a gym bud on campus <br>
-😂 Love making dad jokes: <i>If you’re eating beef while having beef with someone…..that’s double beef.</i><br>
 </p>
 
 ###
