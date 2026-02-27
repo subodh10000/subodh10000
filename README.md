@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I am SK. I am an undergrad computer science student at New Jersey Institute of Technology. I mostly love building iOS apps that makes life easier. </p>
+<p align="left">Hi, I am SK. I am an undergrad computer science student at New Jersey Institute of Technology. I can bench 225lb. </p>
 
 ###
 
@@ -15,10 +15,6 @@
 💻 Goes to Hackathons a lot (I need friends for real) <br>
 🏋️ Looking for a gym bud on campus <br>
 </p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
