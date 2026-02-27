@@ -13,7 +13,7 @@
 <p align="left">
 🏸 Plays badminton <br>
 💻 Goes to Hackathons a lot (I need friends for real) <br>
-I also do cinematography. <br>
+📷 I also do cinematography. <br>
 </p>
 
 ###
