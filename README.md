@@ -11,9 +11,11 @@
 ###
 
 <p align="left">
+🎓 Undergrand CS @ NJIT <br>
 🏸 Plays badminton <br>
 💻 Goes to Hackathons a lot (I need friends for real) <br>
 📷 does cinematography <br>
+
 </p>
 
 ###
