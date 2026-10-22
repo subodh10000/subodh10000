@@ -1,24 +1,19 @@
-<h1 align="left">Software Engineer</h1>
+ <h1 align="left">Software Engineer</h1>
 
 ###
 
-<p align="left">Hi, I am SK and I can bench 225lb. </p>
+<p align="left">Hi, I'm SK 👋</p>
 
 ###
 
-<h3 align="left">More About ME</h3>
-
-###
+<h3 align="left">More About Me</h3>
 
 <p align="left">
-🎓 Undergrand CS @ NJIT <br>
-🏸 Plays badminton <br>
-💻 Goes to Hackathons <br>
-📷 does cinematography <br>
-
+= CS Undergrad @ NJIT <br>
+= Software Engineering | AI | iOS Development <br>
+= Hybrid Athlete | Badminton | Running | Gym <br>
+= Cinematography & Visual Storytelling <br>
+= Exploring sports modeling someday
 </p>
 
 ###
-
-
-
