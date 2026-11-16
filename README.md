@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Subodh%20Kathayat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=iOS%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/nepal-arcade-banner.svg" width="100%" alt="Subodh Kathayat — pixel Himalaya banner"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+Neptou+%E2%80%94+%231+Travel+app+in+Nepal;Shipping+SwiftUI+apps+to+the+App+Store;Building+multi-agent+systems+on+AWS+Bedrock;Hackathon+builder+%E2%80%A2+CS+%40+NJIT+'27" alt="Typing SVG" /></a>
 
@@ -128,6 +128,6 @@ Chrome extension that flags scam emails in Gmail using Claude.
 
 **Currently:** shipping Neptou · building AI agents · open to **Full-time 2027 SWE / iOS / AI roles**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<img src="./assets/nepal-arcade-footer.svg" width="100%"/>
 
 </div>
