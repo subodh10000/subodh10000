@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 About me
+### About me
 
 ```swift
 struct Subodh {
@@ -35,7 +35,7 @@ struct Subodh {
 <tr>
 <td width="50%" valign="top">
 
-#### 🏔️ [Neptou](https://neptou.com/) — AI travel guide for Nepal
+####  [Neptou](https://neptou.com/) — AI travel guide for Nepal
 SwiftUI app with location-aware discovery across 80+ destinations, RAG over a human-verified emergency dataset, and Claude + Gemini under the hood.
 
 `1,000+ downloads in 7 days` · `#1 Travel, Nepal App Store` · `National Competition Winner 2026 ($9K)`
@@ -45,7 +45,7 @@ SwiftUI app with location-aware discovery across 80+ destinations, RAG over a hu
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 ADIP — Multi-agent integration pipeline
+####  ADIP — Multi-agent integration pipeline
 Built at Medidata. Turns meeting notes, JIRA tickets and Slack threads into deployable Airflow code. I owned the code-critique agent and its self-healing pytest loop.
 
 `50% faster integration builds` · `90%+ DAG pass rate`
@@ -65,7 +65,7 @@ HackMIT 2026. Processed 12,066 station-years from 498 NOAA stations and found Ne
 </td>
 <td width="50%" valign="top">
 
-#### 💪 [GymTracker](https://github.com/subodh10000/GymTrackerApp) — Live on the App Store
+####  [GymTracker](https://github.com/subodh10000/GymTrackerApp) — Live on the App Store
 Native iOS fitness app with offline-first, AI-personalized workouts and real-time sync.
 
 <sub>Swift · SwiftUI · Firestore · Cloud Functions</sub>
@@ -75,7 +75,7 @@ Native iOS fitness app with offline-first, AI-personalized workouts and real-tim
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [Atomica](https://github.com/subodh10000/Atomica-App-AI-powered-habit-maker-app-) — HackPrinceton 2025
+####  [Atomica](https://github.com/subodh10000/Atomica-App-AI-powered-habit-maker-app-) — HackPrinceton 2025
 AI habit app that turns your daily rhythm into a personalized 7-day plan.
 
 <sub>Swift · SwiftUI · Gemini API</sub>
@@ -83,7 +83,7 @@ AI habit app that turns your daily rhythm into a personalized 7-day plan.
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ [CaughtIn4K](https://github.com/subodh10000/Caughtin4KNJIT) — 🥉 NJIT Claude AI Hackathon
+####  [CaughtIn4K](https://github.com/subodh10000/Caughtin4KNJIT) — 🥉 NJIT Claude AI Hackathon
 Chrome extension that flags scam emails in Gmail using Claude.
 
 <sub>JavaScript · Chrome Extensions API · Claude API</sub>
@@ -114,7 +114,7 @@ Chrome extension that flags scam emails in Gmail using Claude.
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
 - 🥇 **Code for Impact** — national winner, U.S. Embassy Nepal–supported accelerator — Neptou ($9,000)
 - 🥇 **National Hackathon Competition Winner Code for change 2022** 
