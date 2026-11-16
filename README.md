@@ -118,7 +118,7 @@ Chrome extension that flags scam emails in Gmail using Claude.
 
 - 🥇 **Code for Impact** — national winner, U.S. Embassy Nepal–supported accelerator — Neptou ($9,000)
 - 🥇 **National Hackathon Competition Winner Code for change 2022** 
-- 🥉 **NJIT Claude AI Hackathon** · built at **HackPrinceton** & **HackMIT** ·  **Columbia DivHacks** · 
+- 🥉 **NJIT Claude AI Hackathon** · built at **Columbia DivHacks** ·  **HackPrinceton** & **HackMIT**  
 - 🌱 Founder of **Aasha Ka Paila** — 15+ community projects supporting 600+ families - A Non-profit in Nepal
 - 🇳🇵 Former President, **NJIT Nepali Student Association**
 
