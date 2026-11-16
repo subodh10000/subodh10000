@@ -29,7 +29,7 @@ struct Subodh {
 
 ---
 
-### 🚀 Featured work
+### Featured work
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ Chrome extension that flags scam emails in Gmail using Claude.
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <div align="center">
 
