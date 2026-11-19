@@ -2,7 +2,9 @@
 
 <img src="./assets/nepal-arcade-banner.svg" width="100%" alt="Subodh Kathayat — pixel Himalaya banner"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+Neptou+%E2%80%94+%231+Travel+app+in+Nepal;Shipping+SwiftUI+apps+to+the+App+Store;Building+multi-agent+systems+on+AWS+Bedrock;Hackathon+builder+%E2%80%A2+CS+%40+NJIT+'27" alt="Typing SVG" /></a>
+<img src="./assets/himalaya-valley.gif" width="100%" alt="Animated pixel Himalaya: a deer crosses the terraces, prayer flags flicker, the river flows, and the sun pulses"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFD166&center=true&vCenter=true&width=720&lines=Building+Neptou+%E2%80%94+%231+Travel+app+in+Nepal;SwiftUI+on+the+App+Store+%C2%B7+GymTracker;Multi-agent+systems+on+AWS+Bedrock;Data+Engineer+Intern+%40+Medidata;CS+%40+NJIT+%2727+%C2%B7+hackathon+builder" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,6 +18,8 @@
 ---
 
 ### About me
+
+CS @ NJIT '27. I build iOS apps, AI agents, and data pipelines — most of them started as a 24-hour MVP.
 
 ```swift
 struct Subodh {
@@ -117,9 +121,9 @@ Chrome extension that flags scam emails in Gmail using Claude.
 ### Highlights
 
 - 🥇 **Code for Impact** — national winner, U.S. Embassy Nepal–supported accelerator — Neptou ($9,000)
-- 🥇 **National Hackathon Competition Winner Code for change 2022** 
-- 🥉 **NJIT Claude AI Hackathon** · built at **Columbia DivHacks** ·  **HackPrinceton** & **HackMIT**  
-- 🌱 Founder of **Aasha Ka Paila** — 15+ community projects supporting 600+ families - A Non-profit in Nepal
+- 🥇 **Code for Change 2022** — National Hackathon Competition winner
+- 🥉 **NJIT Claude AI Hackathon** · built at **Columbia DivHacks**, **HackPrinceton**, and **HackMIT**
+- 🌱 Founder of **Aasha Ka Paila** — 15+ community projects supporting 600+ families, a nonprofit in Nepal
 - 🇳🇵 Former President, **NJIT Nepali Student Association**
 
 ---
@@ -128,6 +132,6 @@ Chrome extension that flags scam emails in Gmail using Claude.
 
 **Currently:** shipping Neptou · building AI agents · open to **Full-time 2027 SWE / iOS / AI roles**
 
-<img src="./assets/nepal-arcade-footer.svg" width="100%"/>
+<img src="./assets/nepal-arcade-footer.svg" width="100%" alt="Thanks for playing — pixel Himalaya footer"/>
 
 </div>
